@@ -7,7 +7,7 @@ Right now I’m trying to do a bit of all the silly things that come to mind—h
 # 📊 GitHub Stats:
 ![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Buginsideme&layout=compact&langs_count=4&hide_values=true&theme=transparent)
 ![](https://nirzak-streak-stats.vercel.app/?user=Buginsideme&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Buginsideme&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
